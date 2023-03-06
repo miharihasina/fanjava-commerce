@@ -1,0 +1,62 @@
+.breadcrumb {
+    background: #f8f9fa;
+  }
+  
+  .breadcrumb-item {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    font-weight: 900;
+    color: #111111;
+  }
+  
+  .breadcrumb-item a {
+    color: inherit;
+    transition: all 0.3s;
+  }
+  
+  .breadcrumb-item a:hover, .breadcrumb-item a:focus {
+    color: #d4106c;
+    text-decoration: none;
+  }
+  
+  .text-uppercase {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .text-small {
+    font-size: 0.85rem !important;
+  }
+  
+  .text-gray {
+    color: #aaa !important;
+  }
+  
+  strong {
+    font-weight: 700;
+  }
+  
+  button:focus, button:active {
+    outline: none;
+  }
+  .product img {
+    -webkit-filter: grayscale(40%);
+    filter: grayscale(40%);
+    transition: all 0.3s;
+  }
+  .product:hover img {
+    opacity: 0.3;
+  }
+  .reset-anchor {
+    color: inherit;
+    transition: all 0.3s;
+  }
+  
+  .reset-anchor:hover, .reset-anchor:focus {
+    text-decoration: none;
+  }
+  
+  .small {
+    font-size: 80%;
+    font-weight: 400;
+  }

@@ -1,0 +1,65 @@
+.btn-inscri {
+    color: #fff;
+    background-color: #d4106c;
+    border-color: A61458;
+  }
+  .btn-inscri:hover {
+    color: #fff;
+    background-color: #d4106c;
+    border-color: #d4106c;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16pt;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #d4106c;
+}
+.tete{
+  background-color: #0c0116;
+  box-shadow: 0px 0px 10px #d4106c;
+}
+.logo-style {
+  color: #ce0095;
+}
+#logo{
+  color: #fff;
+}
+.bare {
+  color: #ce0095;
+}
+.buy_bt{ 
+	width: 32%;
+	height: 50px;
+	color: #ffffff;
+	background-color: #ff4e5b;
+	font-size: 16pt;
+ }
+ .buy_bt:hover{ 
+	width: 32%;
+	height: 50px;
+	color: #ff4e5b;
+	background-color: #fff;
+	font-size: 16pt;
+  border-color: #ce0095;
+  border-radius: 10px;
+ }
+
+ .titre{ 
+	width: 32%;
+	height: 50px;
+	color: #ffffff;
+	background-color:#0c0116;
+	font-size: 16pt;
+ }
+ #contact{
+  border-radius: 10px;
+ }
+ .slider_item-detail h1 {
+  font-weight: 700;
+  font-size: 60px;
+  width: 95%;
+}
+
+
